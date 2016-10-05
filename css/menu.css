@@ -1,0 +1,143 @@
+body {
+	background-color: #555;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+
+li {
+	list-style-type: none;
+	font-size: 28px;
+	
+}
+
+footer {
+	border-top: 2px solid #000;
+	width: 100%
+	background-color: blue;
+	border-bottom: 2px solid #000;
+	font-family: 'Fjalla One', sans-serif;
+}
+header {
+	background-color: blue;
+	font-family: 'Fjalla One', sans-serif;
+}
+p {
+	text-align: center;
+	color: white;
+	font-size: 35px;
+	font-family: 'Fjalla One', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+}
+li a {
+	display: block;
+	color: white;
+	background-color: blue;
+}
+img {
+
+	width: 270px;
+	height: auto;
+
+}
+.menu-wrapper {
+	margin: 20px auto;
+	padding: 0;
+	text-align: center;
+	width: 90%;
+}
+.menu-wrapper li {
+	width: 45%;
+	margin-right: 5%; 
+	height: 350px;
+	float: left;
+}
+
+.menu-wrapper li img {
+	width: 50%;
+	float: left;
+}
+
+.menu-wrapper li .menu-text {
+	width: 45%;
+	padding-left: 5%;
+	float: left;
+}
+
+header {
+	border-style: solid;
+	background-color: blue;
+	width: 100%;
+	border-top: 2px solid #000;
+
+}
+h1 {
+	color: white;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 45px;
+	text-align: center;
+}
+h2 {
+	font-size: 25px;
+	font-family: 'Fjalla One', sans-serif;
+}
+h4 {
+	background-color: blue;
+	font-family: 'Fjalla One', sans-serif;
+}
+header nav ul {
+	width: 100%;
+	text-align: center;
+	background-color: blue;
+}
+
+header nav ul li {
+	width: 33%;
+	display: inline-block;
+	vertical-align: middle;
+	float: none;
+	background-color: blue;
+}
+
+header nav ul li.logo-wrap img {
+	width: 100%;
+	background-color: blue;
+}
+
+.footer {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: 'Fjalla One', sans-serif;
+	background-color: blue;
+	width: 100%
+}
+
+.footer-social {
+	text-align: center;
+	background-color: blue;
+}
+.footer-social li {
+	display: inline-block;
+	list-style-type: none;
+	margin:0 10px;
+	width: 50px;
+	height: auto;
+	background-color: blue;
+
+}
+.footer-social li img {
+	width: 100%;
+	background-color: blue;
+}
