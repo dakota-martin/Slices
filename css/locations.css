@@ -20,12 +20,21 @@ footer {
 
 
 }
+a:link {
+	text-decoration: none;
+}
 h1 {
 	color: white;
 	font-family: 'Fjalla One', sans-serif;
 	font-size: 45px;
 	text-align: center;
 	padding-top: 25px;
+}
+h2 {
+	text-align: center; 
+	color: white; 
+	font-size: 35px; 
+
 }
 p {
 	text-align: center;
@@ -49,6 +58,7 @@ li a {
 img {
 	display: block;
 	margin: auto;
+	width: 50%;
 }
 header {
 	border-style: solid;
